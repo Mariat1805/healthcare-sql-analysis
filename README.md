@@ -2,8 +2,8 @@
 ## Overview
 End-to-end SQL analysis of a synthetic healthcare dataset covering 54,966 patient records across 5 years (2019–2024). The project covers data exploration, patient demographics, financial analysis, clinical patterns, and hospital performance, with advanced SQL techniques demonstrated in the final phase.
 ## Tools Used
-MySQL — all queries and analysis <br>
-Excel — data cleaning prior to import
+**MySQL** — all queries and analysis <br>
+**Excel** — data cleaning prior to import
 ## Dataset
 Source: Synthetic healthcare dataset (Kaggle)<br>
 Rows: 54,966 patients (after removing 534 duplicates)<br>

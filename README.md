@@ -5,11 +5,11 @@ End-to-end SQL analysis of a synthetic healthcare dataset covering 54,966 patien
 **MySQL** — all queries and analysis <br>
 **Excel** — data cleaning prior to import
 ## Dataset
-Source: Synthetic healthcare dataset (Kaggle)<br>
-Rows: 54,966 patients (after removing 534 duplicates)<br>
-Columns: 16 (15 original + 1 derived: `Length_of_Stay_Days`)<br>
-Period: May 2019 – May 2024<br>
-Note: Dataset is synthetic. Billing amounts were corrupted in the source file and corrected during cleaning. All figures are used for SQL practice purposes only.
+**Source:** Synthetic healthcare dataset (Kaggle)<br>
+**Rows:** 54,966 patients (after removing 534 duplicates)<br>
+**Columns:** 16 (15 original + 1 derived: `Length_of_Stay_Days`)<br>
+**Period:** May 2019 – May 2024<br>
+**Note:** Dataset is synthetic. Billing amounts were corrupted in the source file and corrected during cleaning. All figures are used for SQL practice purposes only.
 ## Project Structure
 ```
 healthcare-sql-analysis/
